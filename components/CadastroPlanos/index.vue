@@ -4,6 +4,7 @@
     <div class="container-form">
       <div>
         <input v-model="nomeone" type="name" placeholder="Digite seu nome" />
+        /* jgvuvtuvuvytv */
       </div>
       <div>
         <input
