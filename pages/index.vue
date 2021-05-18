@@ -9,10 +9,12 @@
     <SectionFour />
     <SectionFive />
     <SectionSix />
+    <SectionSeven />
   </div>
 </template>
 
 <script>
+import SectionSeven from "@/components/Home/SectionSeven";
 import SectionSix from "@/components/Home/SectionSix";
 import SectionFive from "@/components/Home/SectionFive";
 import SectionFour from "@/components/Home/SectionFour";
@@ -28,7 +30,8 @@ export default {
     SectionThree,
     SectionFour,
     SectionFive,
-    SectionSix
+    SectionSix,
+    SectionSeven
   }
 };
 </script>
